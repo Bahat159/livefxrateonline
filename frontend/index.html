@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <script src="./assets/js/app.js"></script>
+    <title>Live FX Rate Dashboard</title>
+    <style></style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>Live Currency Monitor</h1>
+        <p style="color: #cbd5e1;">Current Exchange Rate</p>
+        <div class="rate-display" id="rate-text">0.00 ₦</div>
+        <p style="font-weight: 500;">Base: 1 USD</p>
+        
+        <div class="meta">
+            <p>Global Source Update: <span id="api-time">-</span></p>
+            <p>System Last Sync: <span id="sync-time">-</span></p>
+        </div>
+
+        <button onclick="loadRates()">Refresh Dashboard</button>
+    </div>
+
+    <script></script>
+</body>
+</html>
