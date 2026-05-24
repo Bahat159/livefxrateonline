@@ -55,5 +55,5 @@ Deploy the `backend/` directory to any standard local server environment (e.g., 
 ---
 💡 **Looking for a Full-Stack or Automation Contractor?**  
 I am available for immediate remote freelance work, technical bug fixing, and custom workflow development. Let's build together! 
-📬 **Connect with me on [LinkedIn](https://linkedin.com[your-linkedin-username]) or open a GitHub Issue.**
+📬 **Connect with me on [LinkedIn](www.linkedin.com/in/habibullaah-busari-191ba8155) or open a GitHub Issue.**
 
